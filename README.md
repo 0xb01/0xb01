@@ -3,8 +3,8 @@
 </p>
 
 ## 🚀 About Me
-Welcome, I'm Niks, a software developer with over 6 years of professional experience, and a lot of years before that, mostly play and boredom, making this and that.\\
-Currently, I'm both in software and hardware with Xojo with experience of backend development, making applications for Mac, Windows, and Linux, but have previously worked with VB 6/.NET, C#, and a bit of C++ for Windows application development.
+Welcome, I'm Niks, a software developer with over 6 years of professional experience, and a lot of years before that, mostly play and boredom, making this and that.\
+Currently, I'm both in software and hardware with Xojo with experience of backend development, making applications for Mac, Windows, and Linux, but have previously worked with VB 6/.NET, C#, and a bit of C++ for Windows application development.\
 On the daily, exploring and making use of other programming languages and tools to help me make my life and work easier.
 
 ## 👍 Socials
