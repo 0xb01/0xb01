@@ -8,6 +8,4 @@ Currently, I'm both in software and hardware with Xojo with experience of backen
 On the daily, exploring and making use of other programming languages and tools to help me make my life and work easier.
 
 ## 👍 Socials
-![GitHub followers](https://img.shields.io/github/followers/0xb01?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0IIHMtA_X6-bSv-Gj07HLw?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/0xb03?style=social)
